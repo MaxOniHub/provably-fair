@@ -1,0 +1,8 @@
+{
+  "name": "provably-fair/demo",
+  "autoload": {
+    "psr-4": {
+      "Provably\\": "src/"
+    }
+  }
+}

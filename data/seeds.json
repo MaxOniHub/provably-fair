@@ -1,0 +1,108 @@
+{
+    "current": {
+        "seed": "8442f2e04d86a6e965e149c1f7aa88b8b186f89e9cb6aaad01a8967276d5424e",
+        "hash": "378c98dc5ae768672740170c9beb1c49c4a94e1d0731c397727ff65e0175a593"
+    },
+    "archive": [
+        {
+            "seed": "fe733ce3677bf225693ffecde1e7e7da1f20bcc20d1eafcfbb24a11e09e572c2",
+            "hash": "d135b3cd331c9cd68fc6b24c8355f46287baca0dc7bf7ea7cb8e748c5472f795",
+            "revealed_at": 1773103397
+        },
+        {
+            "seed": "398ea784095dc4f932011a53241147d743b4d9a3dfe80751078ed40e32b0b36e",
+            "hash": "d3acbdab7de80d85e6a2b842cb9f5a2c175f80dc6af81bb2aafd2272d5b21e06",
+            "revealed_at": 1773103413
+        },
+        {
+            "seed": "cf0bbadaeef0bb2aa451d8261d825c769bf551afb5b3a5abbfc704f5a32c9f01",
+            "hash": "ea5c08d03ca9efe69324736a86afe5af700c30768d1c872bc597106e5c28c681",
+            "revealed_at": 1773103413
+        },
+        {
+            "seed": "7401c11d9779d879a48c6fb24ea97c458f9ac09d796902b6be212b5ccfc4dd63",
+            "hash": "64f7ea54d4e1d4354d3c0da697eee74d76c19ff14a711ab03e6160b1ff9fb51c",
+            "revealed_at": 1773107502
+        },
+        {
+            "seed": "845683e660b870344e2fe2667a8034ebc623d91a1e06bd00b24781959d2b240a",
+            "hash": "ed5af793f403396f2e2b9fc1cd391aa400745747c117b3e28c85e13ca8822c0a",
+            "revealed_at": 1773107502
+        },
+        {
+            "seed": "1b7809f6c26eceab89f1a205f720efc4a7754f137211c84e100d77ed84258754",
+            "hash": "36f0abf198a54a3b324afa8b51b5caed1f52c6456a6581268611781dcddabded",
+            "revealed_at": 1773107969
+        },
+        {
+            "seed": "ebfd8fd17a77cb221de4ef811919c931ecf950b28810882673bc155893b43cb8",
+            "hash": "600079b594f398d65736cc6ca0bfd12024049e9aa4406e60f9610a6bfdde24ca",
+            "revealed_at": 1773107969
+        },
+        {
+            "seed": "86b5d81b03673327ee5a35471fa96bff1eb7bb8669dcd05ef8c1c6fa9d11edfa",
+            "hash": "b0041e535dc7c1ef0a4cec1eef0857fd0004c2a767df6c2890fb261c98e85515",
+            "revealed_at": 1773107970
+        },
+        {
+            "seed": "660cebe0d23ae7b8115467f4ae19ba86699ee78398947622d5370f4b8d89fca8",
+            "hash": "80bb8147634ff6fa13998a52648d7a0768d96993fc04b0cfee44fa748f12503b",
+            "revealed_at": 1773107970
+        },
+        {
+            "seed": "4f7153d51604aab811f88aae7fcb0f0dcff5346579c2e0a4fce3580f3bfd3706",
+            "hash": "0de50f3290bfc5d3198e26ff0bdaba48c0ec10be592c39716c82ca30cc303d59",
+            "revealed_at": 1773107972
+        },
+        {
+            "seed": "2dea46db77244952df44a56783566ffae5962396ae30d1fb1c1fe0b205f9b95a",
+            "hash": "8fca3415a498366def5013816a26fe75da379724fc8140a2c33cc92ce10c06db",
+            "revealed_at": 1773107972
+        },
+        {
+            "seed": "92bd56595a47cba61db86af63aa89f3107bd2a92dc71d1056d205f0b7ee58574",
+            "hash": "15355fab9305ee7bf9980f7a746f8d282ff9d7eae2f3c0042394fab7b4b7d7ad",
+            "revealed_at": 1773107975
+        },
+        {
+            "seed": "e7bf51a11e22441f3c9a1a3ed9b7627c83dccb800a5c47e5e556c49cc2f2d17a",
+            "hash": "0dc846dce20fac8d6394573229b36994908ac05892f61214cd305c7df660e11c",
+            "revealed_at": 1773107976
+        },
+        {
+            "seed": "435690adacec230b621949c9031d65cb905437fe7e36048e2e5468a888aa439c",
+            "hash": "2c09557627656db6c4fb6380b127c62c781275301bb8a20296fe5c0407686d42",
+            "revealed_at": 1773238557
+        },
+        {
+            "seed": "6fcccdd0e96983854892848d44156362d3e3a84b00df5e5ae72a4541ed133988",
+            "hash": "9d95764a8664d36daf8d6c5148eed95cd4b122c13eace97044865f4ffef0b168",
+            "revealed_at": 1773242710
+        },
+        {
+            "seed": "0c9327589d33392ca3b03b160e8769aee3935c4c84cbf2f395c79f7d9a34fbdb",
+            "hash": "e9e0130a6174f34eb17f4f494248b832edc3f71175418b3c33105e587335f87f",
+            "revealed_at": 1773242870
+        },
+        {
+            "seed": "9112d63aafe0e2ceaf55448b2eea984d044f157b93fcabc20edcf44a8dfd115c",
+            "hash": "2899d9531d93e9458a0c602a91964ad626d29f6147250e01750babfbffbaa65e",
+            "revealed_at": 1773242881
+        },
+        {
+            "seed": "5f6d572e6562544466ac60b20e5f134a1ae49613a449041e80735327ddd0f876",
+            "hash": "6d34cfeb6f3712d88b78cc92ce6009fd9741ee1fdeb20ffe8efc2f1a1e7b1e26",
+            "revealed_at": 1773242881
+        },
+        {
+            "seed": "5b0a4ff1cc41a879142aa06eb4c1991cd66cbf14ad4afb5f09d7ea6f6016995c",
+            "hash": "f9a6105a71309b8f875aaeff222c1df806d0f8753f85d9d5615c36a8f433d691",
+            "revealed_at": 1773242885
+        },
+        {
+            "seed": "46cedced167c2d728a53174d42188ee22b6065fbed5c7a19e09a476b83ddda05",
+            "hash": "86832e89ae1cd0e21fbb97250b3007a6108ec8ff9405d42580f90ed75e085d0d",
+            "revealed_at": 1773242885
+        }
+    ]
+}

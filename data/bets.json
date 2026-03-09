@@ -1,0 +1,802 @@
+[
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "d135b3cd331c9cd68fc6b24c8355f46287baca0dc7bf7ea7cb8e748c5472f795",
+        "client_seed": "my_seed",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 2.83,
+            "target": 49.5,
+            "win": true,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af69257e79e0.86629839",
+        "timestamp": 1773103397
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "d135b3cd331c9cd68fc6b24c8355f46287baca0dc7bf7ea7cb8e748c5472f795",
+        "client_seed": "my_seed",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 1.39,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af69257e9f50.04245398",
+        "timestamp": 1773103397
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "d3acbdab7de80d85e6a2b842cb9f5a2c175f80dc6af81bb2aafd2272d5b21e06",
+        "client_seed": "player_ebdb35",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 63.05,
+            "target": 49.5,
+            "win": false,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af69350e8d73.39678329",
+        "timestamp": 1773103413
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "d3acbdab7de80d85e6a2b842cb9f5a2c175f80dc6af81bb2aafd2272d5b21e06",
+        "client_seed": "player_ebdb35",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 2.04,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af69350eab48.33720088",
+        "timestamp": 1773103413
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "ea5c08d03ca9efe69324736a86afe5af700c30768d1c872bc597106e5c28c681",
+        "client_seed": "player_fdb4dd",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 93.2,
+            "target": 49.5,
+            "win": false,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af6935268285.61809069",
+        "timestamp": 1773103413
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "ea5c08d03ca9efe69324736a86afe5af700c30768d1c872bc597106e5c28c681",
+        "client_seed": "player_fdb4dd",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 6.34,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af6935269756.49129953",
+        "timestamp": 1773103413
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "64f7ea54d4e1d4354d3c0da697eee74d76c19ff14a711ab03e6160b1ff9fb51c",
+        "client_seed": "player_02aae0",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 98.68,
+            "target": 49.5,
+            "win": false,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af792ea26e83.29098997",
+        "timestamp": 1773107502
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "64f7ea54d4e1d4354d3c0da697eee74d76c19ff14a711ab03e6160b1ff9fb51c",
+        "client_seed": "player_02aae0",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 4.47,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af792ea29ca5.91939792",
+        "timestamp": 1773107502
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "ed5af793f403396f2e2b9fc1cd391aa400745747c117b3e28c85e13ca8822c0a",
+        "client_seed": "player_1ccb15",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 14.22,
+            "target": 49.5,
+            "win": true,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af792ec16bc2.75515790",
+        "timestamp": 1773107502
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "ed5af793f403396f2e2b9fc1cd391aa400745747c117b3e28c85e13ca8822c0a",
+        "client_seed": "player_1ccb15",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 4.55,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af792ec18c75.77359225",
+        "timestamp": 1773107502
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "36f0abf198a54a3b324afa8b51b5caed1f52c6456a6581268611781dcddabded",
+        "client_seed": "player_42cbac",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 33.92,
+            "target": 49.5,
+            "win": true,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b01cfb412.58211196",
+        "timestamp": 1773107969
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "36f0abf198a54a3b324afa8b51b5caed1f52c6456a6581268611781dcddabded",
+        "client_seed": "player_42cbac",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 1.81,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b01cfd354.24430092",
+        "timestamp": 1773107969
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "600079b594f398d65736cc6ca0bfd12024049e9aa4406e60f9610a6bfdde24ca",
+        "client_seed": "player_df6372",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 97.87,
+            "target": 49.5,
+            "win": false,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b01e07f93.28493743",
+        "timestamp": 1773107969
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "600079b594f398d65736cc6ca0bfd12024049e9aa4406e60f9610a6bfdde24ca",
+        "client_seed": "player_df6372",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 32.66,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b01e09c81.09435943",
+        "timestamp": 1773107969
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "b0041e535dc7c1ef0a4cec1eef0857fd0004c2a767df6c2890fb261c98e85515",
+        "client_seed": "player_d7ee3f",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 38.06,
+            "target": 49.5,
+            "win": true,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b02968a60.96810464",
+        "timestamp": 1773107970
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "b0041e535dc7c1ef0a4cec1eef0857fd0004c2a767df6c2890fb261c98e85515",
+        "client_seed": "player_d7ee3f",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 1.03,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b0296e610.71614555",
+        "timestamp": 1773107970
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "80bb8147634ff6fa13998a52648d7a0768d96993fc04b0cfee44fa748f12503b",
+        "client_seed": "player_698c61",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 68.05,
+            "target": 49.5,
+            "win": false,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b02a0cdc4.66380691",
+        "timestamp": 1773107970
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "80bb8147634ff6fa13998a52648d7a0768d96993fc04b0cfee44fa748f12503b",
+        "client_seed": "player_698c61",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 1.78,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b02a0f164.54453838",
+        "timestamp": 1773107970
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "0de50f3290bfc5d3198e26ff0bdaba48c0ec10be592c39716c82ca30cc303d59",
+        "client_seed": "player_0b23a6",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 54.77,
+            "target": 49.5,
+            "win": false,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b04972e85.04083852",
+        "timestamp": 1773107972
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "0de50f3290bfc5d3198e26ff0bdaba48c0ec10be592c39716c82ca30cc303d59",
+        "client_seed": "player_0b23a6",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 1.39,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b04979762.59929295",
+        "timestamp": 1773107972
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "8fca3415a498366def5013816a26fe75da379724fc8140a2c33cc92ce10c06db",
+        "client_seed": "player_8e5214",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 69.53,
+            "target": 49.5,
+            "win": false,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b04a65ae4.47513589",
+        "timestamp": 1773107972
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "8fca3415a498366def5013816a26fe75da379724fc8140a2c33cc92ce10c06db",
+        "client_seed": "player_8e5214",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 12.09,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b04a6bcb5.35439008",
+        "timestamp": 1773107972
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "15355fab9305ee7bf9980f7a746f8d282ff9d7eae2f3c0042394fab7b4b7d7ad",
+        "client_seed": "player_c85794",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 99.97,
+            "target": 49.5,
+            "win": false,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b07ec4896.44054836",
+        "timestamp": 1773107975
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "15355fab9305ee7bf9980f7a746f8d282ff9d7eae2f3c0042394fab7b4b7d7ad",
+        "client_seed": "player_c85794",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 1.27,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b07eca0c6.94040237",
+        "timestamp": 1773107975
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "0dc846dce20fac8d6394573229b36994908ac05892f61214cd305c7df660e11c",
+        "client_seed": "player_610996",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 26.23,
+            "target": 49.5,
+            "win": true,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b080398c4.27142767",
+        "timestamp": 1773107976
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "0dc846dce20fac8d6394573229b36994908ac05892f61214cd305c7df660e11c",
+        "client_seed": "player_610996",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 4,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69af7b0803eae5.63786626",
+        "timestamp": 1773107976
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "2c09557627656db6c4fb6380b127c62c781275301bb8a20296fe5c0407686d42",
+        "client_seed": "player_efc647",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 58.5,
+            "target": 49.5,
+            "win": false,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b1791d9ba9b3.07320626",
+        "timestamp": 1773238557
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "2c09557627656db6c4fb6380b127c62c781275301bb8a20296fe5c0407686d42",
+        "client_seed": "player_efc647",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 1.15,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b1791d9bfb47.49369068",
+        "timestamp": 1773238557
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "9d95764a8664d36daf8d6c5148eed95cd4b122c13eace97044865f4ffef0b168",
+        "client_seed": "test_client",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 84.8,
+            "target": 49.5,
+            "win": false,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b18956cbb7b3.56568411",
+        "timestamp": 1773242710
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "9d95764a8664d36daf8d6c5148eed95cd4b122c13eace97044865f4ffef0b168",
+        "client_seed": "test_client",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 1.35,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b18956cbfd93.41188093",
+        "timestamp": 1773242710
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "e9e0130a6174f34eb17f4f494248b832edc3f71175418b3c33105e587335f87f",
+        "client_seed": "test_enum",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 85.8,
+            "target": 49.5,
+            "win": false,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b189f68c9a17.86862127",
+        "timestamp": 1773242870
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "e9e0130a6174f34eb17f4f494248b832edc3f71175418b3c33105e587335f87f",
+        "client_seed": "test_enum",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 6.88,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b189f68cc478.68005844",
+        "timestamp": 1773242870
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "2899d9531d93e9458a0c602a91964ad626d29f6147250e01750babfbffbaa65e",
+        "client_seed": "player_85b8b9",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 91.66,
+            "target": 49.5,
+            "win": false,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b18a0120e174.36673116",
+        "timestamp": 1773242881
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "2899d9531d93e9458a0c602a91964ad626d29f6147250e01750babfbffbaa65e",
+        "client_seed": "player_85b8b9",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 6.16,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b18a01213b79.66446355",
+        "timestamp": 1773242881
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "6d34cfeb6f3712d88b78cc92ce6009fd9741ee1fdeb20ffe8efc2f1a1e7b1e26",
+        "client_seed": "player_4464ca",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 34.08,
+            "target": 49.5,
+            "win": true,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b18a01400e35.93498883",
+        "timestamp": 1773242881
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "6d34cfeb6f3712d88b78cc92ce6009fd9741ee1fdeb20ffe8efc2f1a1e7b1e26",
+        "client_seed": "player_4464ca",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 1.55,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b18a01402c40.46704823",
+        "timestamp": 1773242881
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "f9a6105a71309b8f875aaeff222c1df806d0f8753f85d9d5615c36a8f433d691",
+        "client_seed": "player_330b37",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 66.57,
+            "target": 49.5,
+            "win": false,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b18a05c2af71.09771068",
+        "timestamp": 1773242885
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "f9a6105a71309b8f875aaeff222c1df806d0f8753f85d9d5615c36a8f433d691",
+        "client_seed": "player_330b37",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 1.18,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b18a05c2f2b5.86584425",
+        "timestamp": 1773242885
+    },
+    {
+        "game": "dice",
+        "game_version": "1.0",
+        "mapping_version": "dice_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "86832e89ae1cd0e21fbb97250b3007a6108ec8ff9405d42580f90ed75e085d0d",
+        "client_seed": "player_0f0eea",
+        "nonce": 0,
+        "round": 0,
+        "params": {
+            "target": 49.5
+        },
+        "result": {
+            "roll": 43.91,
+            "target": 49.5,
+            "win": true,
+            "mapping_version": "dice_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b18a05cc92c8.30605509",
+        "timestamp": 1773242885
+    },
+    {
+        "game": "crash",
+        "game_version": "1.0",
+        "mapping_version": "crash_v1",
+        "rng_version": "hmac_sha256_v1",
+        "server_hash": "86832e89ae1cd0e21fbb97250b3007a6108ec8ff9405d42580f90ed75e085d0d",
+        "client_seed": "player_0f0eea",
+        "nonce": 1,
+        "round": 0,
+        "params": [],
+        "result": {
+            "multiplier": 2.87,
+            "mapping_version": "crash_v1",
+            "game_version": "1.0"
+        },
+        "id": "bet_69b18a05ccee98.32748817",
+        "timestamp": 1773242885
+    }
+]
